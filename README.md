@@ -57,7 +57,7 @@ Nesta entrega foi realizada a análise inicial do material disponibilizado pela 
 
 ---
 
-## Entrega 02 — [Nome da entrega]
+## Entrega 02
 
 Nesta entrega serão apresentados os resultados do desenvolvimento realizado pela equipe.
 
@@ -98,7 +98,7 @@ cd [NOME_DO_PROJETO]
 
 ---
 
-## Entrega 03 — [Nome da entrega]
+## Entrega 03 
 
 ### Artefatos
 
@@ -108,7 +108,7 @@ cd [NOME_DO_PROJETO]
 
 ---
 
-# 👥 Membros da equipe
+# Membros da equipe
 
 | Nome                 | E-mail institucional                            | 
 | -------------------- | ----------------------------------------------- | 
@@ -127,7 +127,7 @@ cd [NOME_DO_PROJETO]
 
 ### Neoenergia
 
-* **DIS-NOR-053 — Norma utilizada como base para o projeto:** [Link para o documento]
+* **DIS-NOR-053 — Norma utilizada como base para o projeto:** [Link]
 
 ### Materiais produzidos pela equipe
 
