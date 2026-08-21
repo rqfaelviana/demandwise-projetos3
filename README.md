@@ -1,6 +1,6 @@
 # Automação do Cálculo de Demanda Elétrica
 
-## 📌 Descrição do projeto
+## Descrição do projeto
 
 O projeto tem como objetivo desenvolver um protótipo capaz de **automatizar o cálculo de demanda elétrica de edificações com múltiplas unidades consumidoras**, seguindo as regras estabelecidas pela norma **DIS-NOR-053 da Neoenergia Pernambuco**.
 
@@ -10,7 +10,7 @@ A solução pretende tornar o processo **mais simples, rápido e padronizado**, 
 
 ---
 
-## 🔎 Visão atual do projeto
+## Visão atual do projeto
 
 A partir do material disponibilizado pela Neoenergia, a equipe identificou que o cálculo de demanda envolve diferentes informações, fórmulas, tabelas e fatores definidos pela norma DIS-NOR-053.
 
@@ -29,7 +29,7 @@ A partir desse entendimento, será desenvolvido um protótipo que permita realiz
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 As tecnologias utilizadas no projeto serão definidas e atualizadas conforme o desenvolvimento do protótipo.
 
@@ -42,7 +42,7 @@ As tecnologias utilizadas no projeto serão definidas e atualizadas conforme o d
 
 ---
 
-# 📦 Entregas
+# Entregas
 
 ## Entrega 01 — Visão inicial e análise do problema
 
@@ -50,10 +50,10 @@ Nesta entrega foi realizada a análise inicial do material disponibilizado pela 
 
 ### Artefatos
 
-* 📄 **README inicial:** [Link]
-* 📊 **Análise do problema:** [Link]
-* 📋 **Material de referência:** [Link]
-* 🖼️ **Screenshots:** [Link]
+* **README inicial:** [Link]
+* **Análise do problema:** [Link]
+* **Material de referência:** [Link]
+* **Screenshots:** [Link]
 
 ---
 
@@ -63,10 +63,9 @@ Nesta entrega serão apresentados os resultados do desenvolvimento realizado pel
 
 ### Artefatos
 
-* 📄 **Documentação:** [Link]
-* 💻 **Código:** [Link]
-* 🖼️ **Screenshots:** [Link]
-* 📊 **Outros materiais:** [Link]
+* **Documentação:** [Link]
+* **Screenshots:** [Link]
+* **Outros materiais:** [Link]
 
 ### Como rodar o projeto
 
@@ -103,10 +102,9 @@ cd [NOME_DO_PROJETO]
 
 ### Artefatos
 
-* 📄 **Documentação:** [Link]
-* 💻 **Código:** [Link]
-* 🖼️ **Screenshots:** [Link]
-* 📊 **Outros materiais:** [Link]
+* **Documentação:** [Link]
+* **Screenshots:** [Link]
+* **Outros materiais:** [Link]
 
 ---
 
@@ -125,7 +123,7 @@ cd [NOME_DO_PROJETO]
 
 ---
 
-# 📚 Materiais de referência
+# Materiais de referência
 
 ### Neoenergia
 
@@ -141,7 +139,7 @@ cd [NOME_DO_PROJETO]
 
 ---
 
-# 📈 Status do projeto
+# Status do projeto
 
 **Em desenvolvimento.**
 
