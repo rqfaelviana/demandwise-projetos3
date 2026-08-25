@@ -35,9 +35,11 @@ As tecnologias utilizadas no projeto serão definidas e atualizadas conforme o d
 
 | Tecnologia | Utilização                                  |
 | ---------- | ------------------------------------------- |
-| A definir  | Interface do sistema                        |
-| A definir  | Desenvolvimento do motor de cálculo         |
-| A definir  | Armazenamento ou organização dos dados      |
+| Java | Linguagem principal utilizada no desenvolvimento do backend e das regras de negócio |
+| SpringBoot  | Framework utilizado para desenvolver o backend e disponibilizar a API da aplicação |
+| Maven  | Gerenciamento de dependências e construção do projeto Java |
+| Thymeleaf | Construção da interface web integrada ao SpringBoot |
+| PostgreSQL  | Banco de dados utilizado para armazenamento das informações | 
 | Git/GitHub | Controle de versão e organização do projeto |
 
 ---
