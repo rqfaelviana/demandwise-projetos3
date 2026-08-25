@@ -120,6 +120,7 @@ cd [NOME_DO_PROJETO]
 | Gilberto Dias | [gdsn@cesar.school](mailto:gdsn@cesar.school) | 
 | Heitor Antonio  | [haotd@cesar.school](mailto:haotd@cesar.school) | 
 | João Vitor Lopes | [jvla@cesar.school](mailto:jvla@cesar.school) | 
+| Luiz Guilherme Silvestre | [lgsgs@cesar.school](mailto:lgsgs@cesar.school) | 
 | Pedro Lima | [phpl@cesar.school](mailto:phpl@cesar.school) | 
 | Rafael Viana | [rlvs@cesar.school](mailto:rlvs@cesar.school) | 
 
