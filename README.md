@@ -112,17 +112,17 @@ cd [NOME_DO_PROJETO]
 
 # Membros da equipe
 
-| Nome                 | E-mail institucional                            | 
-| -------------------- | ----------------------------------------------- | 
-| Arthur Guimarães | [avsg@cesar.school](mailto:avsg@cesar.school) | 
-| Breno Gabriel | [bgas@cesar.school](mailto:bgas@cesar.school) | 
-| Christopher Mark | [cmjm@cesar.school](mailto:cmjm@cesar.school) | 
-| Gilberto Dias | [gdsn@cesar.school](mailto:gdsn@cesar.school) | 
-| Heitor Antonio  | [haotd@cesar.school](mailto:haotd@cesar.school) | 
-| João Vitor Lopes | [jvla@cesar.school](mailto:jvla@cesar.school) | 
-| Luiz Guilherme Silvestre | [lgsgs@cesar.school](mailto:lgsgs@cesar.school) | 
-| Pedro Lima | [phpl@cesar.school](mailto:phpl@cesar.school) | 
-| Rafael Viana | [rlvs@cesar.school](mailto:rlvs@cesar.school) | 
+| Nome                 | E-mail institucional                            | Cargo             |
+| -------------------- | ----------------------------------------------- | ----------------- |
+| Arthur Guimarães | [avsg@cesar.school](mailto:avsg@cesar.school) | Organizer |
+| Breno Gabriel | [bgas@cesar.school](mailto:bgas@cesar.school) | Product Owner |
+| Christopher Mark | [cmjm@cesar.school](mailto:cmjm@cesar.school) | Organizer |
+| Gilberto Dias | [gdsn@cesar.school](mailto:gdsn@cesar.school) | Developer |
+| Heitor Antonio  | [haotd@cesar.school](mailto:haotd@cesar.school) | Developer | 
+| João Vitor Lopes | [jvla@cesar.school](mailto:jvla@cesar.school) | Developer |
+| Luiz Guilherme Silvestre | [lgsgs@cesar.school](mailto:lgsgs@cesar.school) | Organizer |
+| Pedro Lima | [phpl@cesar.school](mailto:phpl@cesar.school) | Developer |
+| Rafael Viana | [rlvs@cesar.school](mailto:rlvs@cesar.school) | Tech Lead | 
 
 ---
 
