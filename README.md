@@ -65,6 +65,8 @@ Nesta entrega foi realizada a análise inicial do material disponibilizado pela 
   - US-10 — Dashboard de métricas de redução de reprovação
   - US-11 — Seleção de tipo de instalação aplicando regras automaticamente
   - US-12 — Segurança e conformidade de dados
+- **Protótipo do Figma:** [Link]
+
 
 ---
 
