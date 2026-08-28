@@ -52,10 +52,19 @@ Nesta entrega foi realizada a análise inicial do material disponibilizado pela 
 
 ### Artefatos
 
-* **README inicial:** [Link]
-* **Análise do problema:** [Link]
-* **Material de referência:** [Link]
-* **Screenshots:** [Link]
+- **Histórias de usuário**
+  - US-01 — Cálculo automático de demanda
+  - US-02 — Alertas explicando por que um valor está fora do padrão
+  - US-03 — Checklist automático das Pendências MUC
+  - US-04 — Padronização entre analistas
+  - US-05 — Templates reaproveitáveis de prédio-tipo
+  - US-06 — Validação impede envio com dado obrigatório faltante
+  - US-07 — Geração automática do relatório final de cálculo
+  - US-08 — Projeto chega pré-validado para o analista
+  - US-09 — Expansão futura para outras distribuidoras
+  - US-10 — Dashboard de métricas de redução de reprovação
+  - US-11 — Seleção de tipo de instalação aplicando regras automaticamente
+  - US-12 — Segurança e conformidade de dados
 
 ---
 
