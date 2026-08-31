@@ -65,7 +65,7 @@ Nesta entrega foi realizada a análise inicial do material disponibilizado pela 
   - US-10 — Dashboard de métricas de redução de reprovação
   - US-11 — Seleção de tipo de instalação aplicando regras automaticamente
   - US-12 — Segurança e conformidade de dados
-- **Documentação das histórias:** [Acessar PDF](./readme_img/historias_de_usuario.pdf)
+- **Documentação das histórias:** [Acessar PDF](readme_img/demandwise-backlog.pdf)
 * **Protótipo do Figma:** [Acessar protótipo](https://sway-ashen-54282395.figma.site)
 
 
