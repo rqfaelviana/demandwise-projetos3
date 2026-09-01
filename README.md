@@ -67,6 +67,7 @@ Nesta entrega foi realizada a análise inicial do material disponibilizado pela 
   - US-12 — Segurança e conformidade de dados
 - **Documentação das histórias:** [Acessar PDF](readme_img/demandwise-backlog.pdf)
 * **Protótipo do Figma:** [Acessar protótipo](https://sway-ashen-54282395.figma.site)
+- **Vídeo de apresentação do protótipo:** [Assistir no YouTube](https://youtu.be/8bLrNAD9KFs)
 
 
 ---
